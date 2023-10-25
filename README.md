@@ -10,6 +10,8 @@ This site can be used to keep track of hourly todos from 9-5 (standard work hour
 
 ![Deployed Site](./assets/screenshot%20.png)
 
+Deployed Site
+https://akusluch.github.io/daily-work-calendar/
 
 ## License
 
